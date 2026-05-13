@@ -1,0 +1,8 @@
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/controller/AuthController.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/config/SecurityConfig.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/controller/AccessController.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/dto/RegisterRequest.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/service/AuthService.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/AuthApplication.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/dto/LoginRequest.java
+/Users/nguyendongnghi/Desktop/bazuuyu-b2b-wholesale/backend/auth-service/src/main/java/com/bazuuyu/b2b/auth/repository/UserRepository.java
